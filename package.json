@@ -1,5 +1,5 @@
 {
-  "name": "rest-example-1",
+  "name": "rest-example-v10.1",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -57,6 +57,7 @@
     "jsonwebtoken": "^9.0.2",
     "jwks-rsa": "^3.1.0",
     "kafkajs": "^2.2.4",
+    "lodash": "^4.17.21",
     "nest-winston": "^1.9.7",
     "nestjs-i18n": "^10.4.5",
     "opentelemetry-instrumentation-kafkajs": "^0.41.0",
